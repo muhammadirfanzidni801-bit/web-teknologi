@@ -1,6 +1,0 @@
-packages:
-  - .
-allowBuilds:
-  bcrypt: true
-  bufferutil: true
-minimumReleaseAge: 2880
